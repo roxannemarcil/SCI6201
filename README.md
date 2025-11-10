@@ -1,6 +1,6 @@
 # SCI6201
 ## Partie 1-Travail final
-** Dans le cadre du cours SCI6201 à la maîtrise en sciences de l'information de l'Université de Montréal**
+** Par Roxanne Marcil dans le cadre du cours SCI6201 à la maîtrise en sciences de l'information de l'Université de Montréal**
 
 ## Source utilisée
 
